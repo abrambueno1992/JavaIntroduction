@@ -3,6 +3,8 @@ public class Hello {
     public static void main(String[] args) {
 
         System.out.println("Hello World, this is Abraham!");
-        System.out.println("Another line on the screen");
+        int myFirstNumber = 5;
+        int secondNumber = 7;
+        System.out.println(myFirstNumber + secondNumber);
     }
 }
